@@ -1,0 +1,6 @@
+D:\FilipFaks\c#\Homework02\Homework02\ThreadOperations\bin\Debug\ThreadOperations.dll
+D:\FilipFaks\c#\Homework02\Homework02\ThreadOperations\bin\Debug\ThreadOperations.pdb
+D:\FilipFaks\c#\Homework02\Homework02\ThreadOperations\obj\Debug\ThreadOperations.csprojResolveAssemblyReference.cache
+D:\FilipFaks\c#\Homework02\Homework02\ThreadOperations\obj\Debug\ThreadOperations.csproj.CoreCompileInputs.cache
+D:\FilipFaks\c#\Homework02\Homework02\ThreadOperations\obj\Debug\ThreadOperations.dll
+D:\FilipFaks\c#\Homework02\Homework02\ThreadOperations\obj\Debug\ThreadOperations.pdb

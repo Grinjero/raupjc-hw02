@@ -1,0 +1,11 @@
+D:\FilipFaks\c#\Homework02\Homework02\Run\bin\Debug\Run.exe.config
+D:\FilipFaks\c#\Homework02\Homework02\Run\bin\Debug\Run.exe
+D:\FilipFaks\c#\Homework02\Homework02\Run\bin\Debug\Run.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Run\bin\Debug\OperationAnswers.dll
+D:\FilipFaks\c#\Homework02\Homework02\Run\bin\Debug\OperationAnswers.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Run\obj\Debug\Run.csprojResolveAssemblyReference.cache
+D:\FilipFaks\c#\Homework02\Homework02\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+D:\FilipFaks\c#\Homework02\Homework02\Run\obj\Debug\Run.exe
+D:\FilipFaks\c#\Homework02\Homework02\Run\obj\Debug\Run.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Run\bin\Debug\ThreadOperations.dll
+D:\FilipFaks\c#\Homework02\Homework02\Run\bin\Debug\ThreadOperations.pdb

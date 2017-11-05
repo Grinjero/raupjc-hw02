@@ -1,0 +1,17 @@
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Tests.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Tests.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\StudentLibrary.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\StudentLibrary.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\FilipFaks\c#\Homework02\Homework02\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\FilipFaks\c#\Homework02\Homework02\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\FilipFaks\c#\Homework02\Homework02\Tests\obj\Debug\Tests.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\obj\Debug\Tests.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Linq.dll
+D:\FilipFaks\c#\Homework02\Homework02\Tests\bin\Debug\Linq.pdb

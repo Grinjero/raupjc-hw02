@@ -1,0 +1,8 @@
+D:\FilipFaks\c#\Homework02\Homework02\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+D:\FilipFaks\c#\Homework02\Homework02\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\FilipFaks\c#\Homework02\Homework02\Linq\bin\Debug\Linq.dll
+D:\FilipFaks\c#\Homework02\Homework02\Linq\bin\Debug\Linq.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Linq\bin\Debug\StudentLibrary.dll
+D:\FilipFaks\c#\Homework02\Homework02\Linq\bin\Debug\StudentLibrary.pdb
+D:\FilipFaks\c#\Homework02\Homework02\Linq\obj\Debug\Linq.dll
+D:\FilipFaks\c#\Homework02\Homework02\Linq\obj\Debug\Linq.pdb

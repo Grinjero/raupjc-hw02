@@ -1,0 +1,6 @@
+D:\FilipFaks\c#\Homework02\Homework02\OperationAnswers\bin\Debug\OperationAnswers.dll
+D:\FilipFaks\c#\Homework02\Homework02\OperationAnswers\bin\Debug\OperationAnswers.pdb
+D:\FilipFaks\c#\Homework02\Homework02\OperationAnswers\obj\Debug\OperationAnswers.csprojResolveAssemblyReference.cache
+D:\FilipFaks\c#\Homework02\Homework02\OperationAnswers\obj\Debug\OperationAnswers.csproj.CoreCompileInputs.cache
+D:\FilipFaks\c#\Homework02\Homework02\OperationAnswers\obj\Debug\OperationAnswers.dll
+D:\FilipFaks\c#\Homework02\Homework02\OperationAnswers\obj\Debug\OperationAnswers.pdb

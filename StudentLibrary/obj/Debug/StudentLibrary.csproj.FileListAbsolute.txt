@@ -1,0 +1,6 @@
+D:\FilipFaks\c#\Homework02\Homework02\StudentLibrary\bin\Debug\StudentLibrary.dll
+D:\FilipFaks\c#\Homework02\Homework02\StudentLibrary\bin\Debug\StudentLibrary.pdb
+D:\FilipFaks\c#\Homework02\Homework02\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+D:\FilipFaks\c#\Homework02\Homework02\StudentLibrary\obj\Debug\StudentLibrary.dll
+D:\FilipFaks\c#\Homework02\Homework02\StudentLibrary\obj\Debug\StudentLibrary.pdb
+D:\FilipFaks\c#\Homework02\Homework02\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
